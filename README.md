@@ -17,4 +17,4 @@ end
 
 ## Analizė
 
-![Screenshot](1_1_1.png)
+![Screenshot](1-1-1.png)
