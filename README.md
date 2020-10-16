@@ -4,9 +4,9 @@
 
 ## Pseudo kodas
 
-start
-skaitomas failas
-sudaromas pirmasis hashas
+start  
+skaitomas failas  
+sudaromas pirmasis hashas  
 hashas sudaromas keliant tam tikru laipsniu
 pakeičiama į hexą
 sudaromas antrasis hashas
