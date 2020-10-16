@@ -14,3 +14,7 @@ sudedami hashai
 atliekami patikrinimai jei reikalingi  
 spausdinamas Hashas  
 end  
+
+## Analizė
+
+![Screenshot](1_1_1.png)
