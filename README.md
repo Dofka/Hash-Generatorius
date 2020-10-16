@@ -7,10 +7,10 @@
 start  
 skaitomas failas  
 sudaromas pirmasis hashas  
-hashas sudaromas keliant tam tikru laipsniu
-pakeičiama į hexą
-sudaromas antrasis hashas
-sudedami hashai
-atliekami patikrinimai jei reikalingi
-spausdinamas Hashas
-end
+hashas sudaromas keliant tam tikru laipsniu  
+pakeičiama į hexą  
+sudaromas antrasis hashas  
+sudedami hashai  
+atliekami patikrinimai jei reikalingi  
+spausdinamas Hashas  
+end  
